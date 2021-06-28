@@ -1,2 +1,2 @@
 # gitTesting
-This is testing Purpose
+This is for testing Purpose
